@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning Machine Learning with Python
 - 💞️ I’m looking to collaborate on App development for both pc and mobile phones.
 - 📫 How to reach me:
-What's App/ Telegram Number:8508491437
+          What's App/ Telegram Number: 8508491437
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aswin&show_icons=true&locale=en&layout=compact" alt="Aswin" /></p>
 
